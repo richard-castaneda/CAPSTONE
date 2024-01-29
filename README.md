@@ -1,3 +1,5 @@
+![Project Image](https://raw.githubusercontent.com/richard-castaneda/CAPSTONE/main/Screenshot%202024-01-29%20130545.png)
+
 # Crime Rates and Public Safety Funding in Louisville
 
 ## Table of Contents
